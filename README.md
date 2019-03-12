@@ -1,4 +1,7 @@
 # Dwarve-Class-Project-survive-seven-days
+
+In this project, I only modified bot.cpp file.
+
 When you run the program, it does not stop at 21:00 at the end of the first day. Instead, it will run for 7 days.
 Each day consists of two parts:  Daytime from 6:00 to 21:00, and Nighttime from 21:00 to 6:00 of the next day. 
 At nighttime, zombies come. There are two types of them: ZOMBIE and PUMPKIN_ZOMBIE. You cannot attack them, 

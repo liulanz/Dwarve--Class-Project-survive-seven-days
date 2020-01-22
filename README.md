@@ -1,6 +1,6 @@
 # Dwarve-Class-Project-survive-seven-days
 
-In this class project, the only file that is told to modified is the bot.cpp file. There were 128 submitions, and I got a third place on the leaderboard on gradescope.
+In this class project, the only file that is told to modified is the bot.cpp file. Out of 128 submissions, I got a THIRD place on the leaderboard on gradescope.
 
 The task was to modified only the bot.cpp file to improve the code controlling actions of the dwarves.
 The map has a dimensions between 25 and 35, the number of dwarves can be 6, 7, or 8. There will be daytime, nighttime,
